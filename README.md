@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/28951144/234489717-P-O-L-N-O-S-T-Ь-Ю-A-V-T-O-M-A-T-I-Ч-Е-С-К-А-Я-L-O-K-A-L-I-Z-A-Ц-И-Я.gif" alt="toLn Showcase GIF" width="600">
-</p> -->
+</p>
 
 <h1 align="center">toLn: The Revolutionary Flutter Localization Library</h1>
 
@@ -317,5 +317,6 @@ We have built `toLn` to be a game-changer, but we are just getting started. Cont
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-#   t o L n  
+#   t o L n 
+ 
  
