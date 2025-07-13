@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/28951144/234489717-P-O-L-N-O-S-T-Ь-Ю-A-V-T-O-M-A-T-I-Ч-Е-С-К-А-Я-L-O-K-A-L-I-Z-A-Ц-И-Я.gif" alt="toLn Showcase GIF" width="600">
+  <a href="https://github.com/ShoghShahadat/toLn/Fa.md">[نسخه فارسی]</a>
 </p>
 
 <h1 align="center">toLn: The Revolutionary Flutter Localization Library</h1>
@@ -7,9 +7,7 @@
 <p align="center">
   <strong>Forget keys. Forget manual setup. Just write your code.</strong>
 </p>
-<p align="center">
-  <a href="https://github.com/ShoghShahadat/toLn/Fa.md">[نسخه فارسی]</a>
-</p>
+
 <p align="center">
   <a href="https://pub.dev/packages/toln"><img src="https://img.shields.io/pub/v/toln.svg?style=for-the-badge&logo=dart" alt="Pub Version"></a>
   <a href="https://github.com/your_username/toln/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your_username/toln.svg?style=for-the-badge" alt="License"></a>
