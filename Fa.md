@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#">[English Version](LINK_TO_ENGLISH_README.md)</a>
+  <a href="#">[English Version](https://github.com/ShoghShahadat/toLn/blob/main/README.md)</a>
 </p>
 
 ---
