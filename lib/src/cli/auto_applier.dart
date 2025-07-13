@@ -180,7 +180,7 @@ class _ModificationVisitor extends RecursiveAstVisitor<void> {
     }
 
     // If no main function is found, do nothing.
-    if (mainFunction == null || mainFunction.functionExpression == null) {
+    if (mainFunction == null) {
       return;
     }
 
