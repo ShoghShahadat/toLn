@@ -1,0 +1,31 @@
+name: example
+description: Demonstrates how to use the toln revolutionary localization package.
+publish_to: 'none' # Prevent accidental publishing of the example app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.0
+  # This is the crucial part:
+  # We are telling this example project to use the 'toln' package
+  # from the parent directory. This allows for live testing.
+  toln:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # We must declare the assets folder for the example app as well.
+  assets:
+    - assets/locales/

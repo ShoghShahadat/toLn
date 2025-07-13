@@ -1,0 +1,27 @@
+name: toln
+description: A revolutionary localization library for Flutter that automates the entire workflow, making multi-language support effortless and enjoyable.
+version: 0.0.1
+homepage: https://github.com/ShoghShahadat/toLn 
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.8.3
+  args: ^2.4.2
+  # --- NEW DEPENDENCIES FOR THE 'auto-apply' COMMAND ---
+  # The official Dart package for parsing and analyzing Dart code.
+  analyzer: ^6.2.0
+  # The official Dart package for formatting code.
+  dart_style: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+executables:
+  toln: toln

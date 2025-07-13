@@ -1,0 +1,12 @@
+{
+  "ln_name": "",
+  "keLn1": "toLn Showcase",
+  "keLn2": "Dashboard",
+  "keLn3": "Welcome back, $s! The time is $s.",
+  "keLn4": "Overview",
+  "keLn5": "You have $s new messages and $s pending tasks.",
+  "keLn6": "Search",
+  "keLn7": "Enter a keyword...",
+  "keLn8": "Item number $s",
+  "keLn9": "This is a description for the item."
+}

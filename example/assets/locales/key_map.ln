@@ -1,0 +1,11 @@
+{
+  "toLn Showcase": "keLn1",
+  "Dashboard": "keLn2",
+  "Welcome back, $s! The time is $s.": "keLn3",
+  "Overview": "keLn4",
+  "You have $s new messages and $s pending tasks.": "keLn5",
+  "Search": "keLn6",
+  "Enter a keyword...": "keLn7",
+  "Item number $s": "keLn8",
+  "This is a description for the item.": "keLn9"
+}
