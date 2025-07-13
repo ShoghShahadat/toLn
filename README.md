@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShoghShahadat/toLn/Fa.md">[نسخه فارسی]</a>
+  <a href="https://github.com/ShoghShahadat/toLn/blob/main/Fa.md">[نسخه فارسی]</a>
 </p>
 
 ---
