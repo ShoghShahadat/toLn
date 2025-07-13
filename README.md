@@ -15,6 +15,10 @@
   <a href="https://github.com/your_username/toln/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ShoghShahadat/toLn/Fa.md">[نسخه فارسی]</a>
+</p>
+
 ---
 
 **toLn** is not just another localization library; it's a complete paradigm shift. We've built an intelligent assistant that handles the entire tedious internationalization workflow, letting you focus on what truly matters: building amazing applications.
