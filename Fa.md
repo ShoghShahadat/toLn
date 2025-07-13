@@ -6,9 +6,6 @@
   <strong>کلیدها را فراموش کنید. تنظیمات دستی را فراموش کنید. فقط کد خود را بنویسید.</strong>
 </p>
 <p align="center">
-  <a href="https://github.com/ShoghShahadat/toLn/README.md">[نسخه فارسی]</a>
-</p>
-<p align="center">
   <a href="https://pub.dev/packages/toln"><img src="https://img.shields.io/pub/v/toln.svg?style=for-the-badge&logo=dart" alt="Pub Version"></a>
   <a href="https://github.com/your_username/toln/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your_username/toln.svg?style=for-the-badge" alt="License"></a>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/platform-flutter-02569B.svg?style=for-the-badge&logo=flutter" alt="Platform"></a>
@@ -16,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#">[English Version](https://github.com/ShoghShahadat/toLn/blob/main/README.md)</a>
+  <a href="https://github.com/ShoghShahadat/toLn/blob/main/README.md">[English Version]</a>
 </p>
 
 ---
